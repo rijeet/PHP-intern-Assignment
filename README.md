@@ -11,12 +11,12 @@ This repository contains solutions for the following tasks:
 ## Task 3: Encapsulation
 
 - Description: [Design a class to manage employee data, demonstrating encapsulation by setting and getting employee salaries securely.]
-- Location: `encapsulation/`
+- Location: `Task 3 Encapsulation`
 
 ## Task 4: Polymorphism
 
 - Description: [Build a set of animal classes that demonstrate polymorphism by overriding a method for making sounds.]
-- Location: `polymorphism/`
+- Location: `Task 4 Polymorphism`
 
 ## Task 5: To-Do Module
 
@@ -31,11 +31,11 @@ This is a simple To-Do List application built with Laravel. It allows users to c
 - Mark tasks as completed.
   
 - Description: [This is a simple To-Do List application built with Laravel. It allows users to create, update, and delete lists and tasks.]
-- Location: `todo-module/`
+- Location: `Task 5 To-Do Module`
 
 ## Installation and Usage
 
 1. Clone the repository:
 
    ```bash
-   git clone [repository-link]
+   git clone [[repository-link](https://github.com/rijeet/PHP-intern-Assignment)]
