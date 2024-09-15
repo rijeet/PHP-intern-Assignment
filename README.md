@@ -30,7 +30,8 @@ This is a simple To-Do List application built with Laravel. It allows users to c
 - Add, update, and delete tasks within a list.
 - Mark tasks as completed.
 
-![To-Do List Demo](https://imgur.com/a/8XXudwP)
+![To-Do List Demo](PHP-intern-Assignment
+/images/image.png)
 
 - Description: [This is a simple To-Do List application built with Laravel. It allows users to create, update, and delete lists and tasks.]
 - Location: `Task 5 To-Do Module`
