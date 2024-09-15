@@ -33,9 +33,4 @@ This is a simple To-Do List application built with Laravel. It allows users to c
 - Description: [This is a simple To-Do List application built with Laravel. It allows users to create, update, and delete lists and tasks.]
 - Location: `Task 5 To-Do Module`
 
-## Installation and Usage
 
-1. Clone the repository:
-
-   ```bash
-   git clone [repository-link](https://github.com/rijeet/PHP-intern-Assignment)]
