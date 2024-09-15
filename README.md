@@ -38,4 +38,4 @@ This is a simple To-Do List application built with Laravel. It allows users to c
 1. Clone the repository:
 
    ```bash
-   git clone [[repository-link](https://github.com/rijeet/PHP-intern-Assignment)]
+   git clone [repository-link](https://github.com/rijeet/PHP-intern-Assignment)]
